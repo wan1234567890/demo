@@ -1,7 +1,7 @@
-<<<<<<< HEAD:demo.txt.txt
+
 git我改了，我真的改了，我再改了发给德国法国覆盖，我是德莫
 
-=======
+
 git我改了，我真的改了，我再改了发给德国法国覆盖
 士大夫
->>>>>>> demobranch:demobranch.txt.txt
+
